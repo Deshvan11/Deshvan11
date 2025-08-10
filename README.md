@@ -1,4 +1,8 @@
 ## Hi there 👋
+Looking forward to learn and apply my understandings about different knowledge and skills
+😃 👊 ❤
+Creating projetcs that really are required and add significant change in th development of tech&perspective
+⚡ 📊 😊
 
 <!--
 **Deshvan11/Deshvan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
