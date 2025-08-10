@@ -1,7 +1,10 @@
 ## Hi there 👋
-Looking forward to learn and apply my understandings about different knowledge and skills
+Looking forward to learn and apply my understandings about different knowledge and skills.
+
 😃 👊 ❤
-Creating projetcs that really are required and add significant change in th development of tech&perspective
+
+Creating projectss that really are required and add significant change in th development of tech&perspective
+
 ⚡ 📊 😊
 
 <!--
