@@ -7,9 +7,9 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 🌱 Currently Learning
-- 📘 Data Science fundamentals  
-- ✅ Completed: **NumPy, Pandas, Data Visualization**  
-- 🔄 Currently exploring: **Statistics**  
+- 📘 Data Science Fundamentals  
+- ✅ Completed: NumPy, Pandas, Data Visualization  
+- 🔄 Currently exploring: Statistics  
 
 ---
 
@@ -20,23 +20,34 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 
 ---
 
-### 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-007ACC?style=for-the-badge)
+### 🛠️ Languages & Tools  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-statistics-data-science-flat-flat-juicy-fish.png" alt="Statistics" width="40" height="40"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats  
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)  
 
 ---
 
-### 📫 Let’s Connects
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tanmay-deshmukh/)  
-[![Gmail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BUUhX0PHWirH-Ci8c1kMZxjsBrMCQNj8gA&s)](mailto:your-email@gmail.com)  
+### 📫 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanmay-deshmukh-367a07259" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:tndeshmukh11@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
