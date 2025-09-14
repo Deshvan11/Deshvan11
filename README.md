@@ -35,7 +35,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 📫 Let’s Connects
-[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-linkedin-logo-dsk-v01.jpg.original.jpg)](https://www.linkedin.com/in/tanmay-deshmukh/)  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tanmay-deshmukh/)  
 [![Gmail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BUUhX0PHWirH-Ci8c1kMZxjsBrMCQNj8gA&s)](mailto:your-email@gmail.com)  
 
 ---
