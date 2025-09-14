@@ -3,23 +3,14 @@
 😃 👊 ❤  
 
 I’m passionate about **learning, building, and applying knowledge** to create impactful projects that bring real value and spark new perspectives in technology.  
-
----
-
 ### 🌱 Currently Learning
 - 📘 Data Science Fundamentals  
 - ✅ Completed: NumPy, Pandas, Data Visualization  
 - 🔄 Currently exploring: Statistics  
-
----
-
 ### 🚀 My Focus
 - Building projects that **solve real-world problems**  
 - Developing skills that **bridge tech and innovation**  
 - Constantly improving through **hands-on learning**  
-
----
-
 ### 🛠️ Languages & Tools  
 
 <p align="left">
@@ -35,8 +26,6 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ### 📊 GitHub Stats  
 ![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)  
 
----
-
 ### 📫 Connect With Me  
 
 <p align="left">
@@ -47,7 +36,4 @@ I’m passionate about **learning, building, and applying knowledge** to create 
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
----
-
 ✨ *Always curious, always learning, always creating.*  
