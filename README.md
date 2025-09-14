@@ -4,7 +4,7 @@
 
 
 <h2 align="center">✨ **Always curious, always learning, always building intelligent systems**   
-<h2 align="center"> transforming **data into insights➕models into intelligence**  
+<h2 align="center"> Transforming data into insights➕models into intelligence 
 
 ### Currently Learning
 - 📘 Data Science & Machine Learning Fundamentals  
