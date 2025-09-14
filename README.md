@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Tanmay Deshmukh</h1>
+
+<h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
 <p align="center">😃 👊 ❤</p>
 
-<p align="center">
+### <p align="center">
   I’m passionate about **Data Science, Machine Learning, and Deep Learning**.  
   transforming **data into insights, models into intelligence**, and drive innovation through technology and AI.  
 </p>
@@ -35,7 +36,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/786/786695.png" alt="Statistics" width="40" height="40"/>
+  
   
   
 </p>
