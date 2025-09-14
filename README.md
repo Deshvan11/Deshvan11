@@ -2,20 +2,26 @@
 
 <p align="center">😃 👊 ❤</p>
 
-I’m passionate about **learning, building, and applying knowledge** to create impactful projects that bring real value and spark new perspectives in technology.  
+<p align="center">
+  I’m passionate about **Data Science, Machine Learning, and Deep Learning** — continuously learning, building, and applying knowledge to create **impactful solutions**.  
+  My goal is to transform **data into insights, models into intelligence**, and drive innovation through technology and AI.  
+</p>
+
 
 
 ### 🌱 Currently Learning
-- 📘 Data Science Fundamentals  
+- 📘 Data Science & Machine Learning Fundamentals  
 - ✅ Completed: **NumPy, Pandas, Data Visualization**  
-- 🔄 Currently exploring: **Statistics**  
+- 🔄 Currently exploring: **Statistics & Probability**  
+- ⏳ Upcoming: **Machine Learning (Supervised/Unsupervised)** and **Deep Learning (Neural Networks, CNNs, RNNs)**  
 
 
 ### 🚀 My Focus
-- Building projects that **solve real-world problems**  
-- Developing skills that **bridge tech and innovation**  
-- Constantly improving through **hands-on learning**  
-
+- Applying **Data Science & ML techniques** to solve **real-world problems**  
+- Building **predictive models** that convert raw data into **actionable intelligence**  
+- Developing projects that showcase **hands-on ML/DL skills**  
+- Constantly improving through **experiments, research, and practical applications**  
+- Aspiring to grow as a **Data Scientist / Machine Learning Engineer** and contribute to **AI-driven innovation**  
 
 
 ### 🛠️ Languages & Tools  
@@ -27,8 +33,10 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/786/786695.png" alt="Statistics" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlow_logo.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
-
 
 
 ### 📊 GitHub Stats  
@@ -37,7 +45,6 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   <img src="https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanmay's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
 </p>
-
 
 
 ### 📫 Connect With Me  
@@ -51,6 +58,6 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   </a>
 </p>
 
+---
 
-
-✨ *Always curious, always learning, always creating.*  
+✨ *Always curious, always learning, always building intelligent systems.*  
