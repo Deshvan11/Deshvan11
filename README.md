@@ -24,7 +24,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-statistics-data-science-flat-flat-juicy-fish.png" alt="Statistics" width="40" height="40"/>
@@ -33,8 +33,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 📊 GitHub Stats  
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)  
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)  
 
 ---
 
