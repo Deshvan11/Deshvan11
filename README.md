@@ -4,17 +4,19 @@
 ### ✨ Always curious, always learning, always building intelligent systems 
 - **Transforming data into insights➕models into intelligence** 
 
-### Journey On
-- 📘 Data Science & Machine Learning Fundamentals  
-- ✅ Completed: **NumPy, Pandas, Data Visualization**  
+### Journey On 
+- ✅ Completed: **NumPy -> Pandas -> Data Visualization**  
 - 🔄 Currently exploring: **Statistics & Probability**  
-- ⏳ Upcoming: **Machine Learning (Supervised/Unsupervised)** and **Deep Learning (Neural Networks, CNNs, RNNs)**  
+- ⏳ Upcoming: **Xcel -> Power BI -> Machine Learning -> Deep Learning (Neural Networks, CNNs, RNNs)**  
 
 
 ### My Focus
-- 🎯Applying **Data Science & ML techniques** to solve **real-world problems**  
-- 🏗Building **predictive models** that convert raw data into **actionable intelligence**   
-- ✨improving through **experiments, research, and practical applications**  
+- 🎯Applying **Data Science & ML techniques** to solve **real-world problems**
+-                                     🔻
+- 🏗Building **predictive models** that convert raw data into **actionable intelligence**
+-                                     🔻 
+- ✨improving through **experiments, research, and practical applications**
+-                                     🔻
 - 🌟Aspiring to grow as a **Data Scientist / Machine Learning Engineer** and contribute to **AI-driven innovation**  
 
 
