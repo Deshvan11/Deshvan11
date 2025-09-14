@@ -15,8 +15,8 @@
 - 🌟**Data Scientist / Machine Learning Engineer** and contribute to **AI-driven innovation**
 ### By 
 - 🎯Applying **Data Science & ML techniques** to solve **real-world problems**
-### ✨improving through
-- **experiments, research, and practical applications**
+### Improving through
+- ✨**experiments, research, and practical applications**
 
 ### 🛠Languages & Tools  
 
