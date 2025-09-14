@@ -1,22 +1,31 @@
-## 👋 Hi there, I'm Tanmay Deshmukh  
+<h1 align="center">👋 Hi there, I'm Tanmay Deshmukh</h1>
 
-😃 👊 ❤  
+<p align="center">😃 👊 ❤</p>
 
 I’m passionate about **learning, building, and applying knowledge** to create impactful projects that bring real value and spark new perspectives in technology.  
+
+---
+
 ### 🌱 Currently Learning
 - 📘 Data Science Fundamentals  
 - ✅ Completed: **NumPy, Pandas, Data Visualization**  
 - 🔄 Currently exploring: **Statistics**  
+
+---
+
 ### 🚀 My Focus
 - Building projects that **solve real-world problems**  
 - Developing skills that **bridge tech and innovation**  
 - Constantly improving through **hands-on learning**  
+
+---
+
 ### 🛠️ Languages & Tools  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Statistics" width="40" height="40"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/786/786695.png" alt="Statistics" width="40" height="40"/>
@@ -25,11 +34,17 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 📊 GitHub Stats  
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanmay's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+</p>
+
+---
 
 ### 📫 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tanmay-deshmukh-367a07259" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -37,4 +52,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
+---
+
 ✨ *Always curious, always learning, always creating.*  
