@@ -1,13 +1,11 @@
 
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
-<p align="center">😃 👊 ❤</p>
+
 
 ###
-<p align="center">
-  ✨ *Always curious, always learning, always building intelligent systems.*   
-  transforming **data into insights➕models into intelligence**  
-</p>
+  ✨ **Always curious, always learning, always building intelligent systems**   
+  - transforming **data into insights➕models into intelligence**  
 
 ---
 
