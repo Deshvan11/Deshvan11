@@ -1,8 +1,9 @@
 
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
-### ✨ Always curious, always learning, always building intelligent systems 
-- **Transforming data into insights ➕ models into intelligence** 
+<h1 align="center">Always curious, always learning, always building intelligent systems 
+  
+### **Transforming data into insights ➕ models into intelligence** 
 
 ### Journey On 
 - ✅ Completed: **NumPy -> Pandas -> Data Visualization**  
