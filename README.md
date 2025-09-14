@@ -28,7 +28,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="40"/>
   
 </p>
 
