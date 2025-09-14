@@ -1,12 +1,10 @@
 
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
+### ✨ Always curious, always learning, always building intelligent systems 
+- **Transforming data into insights➕models into intelligence** 
 
-
-<h2 align="center">✨ **Always curious, always learning, always building intelligent systems**   
-<h2 align="center"> Transforming data into insights➕models into intelligence 
-
-### Currently Learning
+### Journey On
 - 📘 Data Science & Machine Learning Fundamentals  
 - ✅ Completed: **NumPy, Pandas, Data Visualization**  
 - 🔄 Currently exploring: **Statistics & Probability**  
