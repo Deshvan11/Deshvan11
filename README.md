@@ -1,5 +1,6 @@
-## 👋 Hi there, I'm Tanmay Deshmukh 
- 
+## 👋 Hi there, I'm Tanmay Deshmukh  
+
+😃 👊 ❤  
 
 I’m passionate about **learning, building, and applying knowledge** to create impactful projects that bring real value and spark new perspectives in technology.  
 ### 🌱 Currently Learning
