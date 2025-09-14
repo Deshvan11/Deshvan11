@@ -30,13 +30,12 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 📊 GitHub Stats
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshvan11&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Let’s Connect
-[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe5HFncYXJiTvsGoUGm4CEfvVUfe70WTcpg&s)](https://www.linkedin.com/in/tanmay-deshmukh/)  
+### 📫 Let’s Connects
+[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-inlogo-dsk-v01.jpg.original.jpg)](https://www.linkedin.com/in/tanmay-deshmukh/)  
 [![Gmail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BUUhX0PHWirH-Ci8c1kMZxjsBrMCQNj8gA&s)](mailto:your-email@gmail.com)  
 
 ---
