@@ -36,8 +36,8 @@ I’m passionate about **learning, building, and applying knowledge** to create 
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://wcaustin.org/wp-content/uploads/2014/12/LinkedIn-InBug-2CRev.png)](https://www.linkedin.com/in/tanmay-deshmukh/)  
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe5HFncYXJiTvsGoUGm4CEfvVUfe70WTcpg&s)](https://www.linkedin.com/in/tanmay-deshmukh/)  
+[![Gmail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BUUhX0PHWirH-Ci8c1kMZxjsBrMCQNj8gA&s)](mailto:your-email@gmail.com)  
 
 ---
 
