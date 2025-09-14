@@ -3,9 +3,10 @@
 
 <p align="center">😃 👊 ❤</p>
 
-### <p align="center">
-  I’m passionate about **Data Science, Machine Learning, and Deep Learning**.  
-  transforming **data into insights, models into intelligence**, and drive innovation through technology and AI.  
+###
+<p align="center">
+  ✨ *Always curious, always learning, always building intelligent systems.*   
+  transforming **data into insights➕models into intelligence**  
 </p>
 
 ---
@@ -48,15 +49,15 @@
 
 ### Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/tanmay-deshmukh-367a07259" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:tndeshmukh11@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-✨ *Always curious, always learning, always building intelligent systems.*  
+ 
