@@ -27,7 +27,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-statistics-data-science-flat-flat-juicy-fish.png" alt="Statistics" width="40" height="40"/>
+  <img src="https://cdn.imgbin.com/23/9/7/imgbin-statistics-icon-ppt-element-Y3FB4UXWyPpHUmJt6vixMpWE2.jpg" alt="Statistics" width="40" height="40"/>
 </p>
 
 ---
