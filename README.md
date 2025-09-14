@@ -3,11 +3,8 @@
 
 
 
-###
-  ✨ **Always curious, always learning, always building intelligent systems**   
+<h2 align="center">✨ **Always curious, always learning, always building intelligent systems**   
   - transforming **data into insights➕models into intelligence**  
-
----
 
 ### Currently Learning
 - 📘 Data Science & Machine Learning Fundamentals  
