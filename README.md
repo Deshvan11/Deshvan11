@@ -12,11 +12,8 @@
 
 ### My Focus
 - 🎯Applying **Data Science & ML techniques** to solve **real-world problems**
--                                     🔻
 - 🏗Building **predictive models** that convert raw data into **actionable intelligence**
--                                     🔻 
 - ✨improving through **experiments, research, and practical applications**
--                                     🔻
 - 🌟Aspiring to grow as a **Data Scientist / Machine Learning Engineer** and contribute to **AI-driven innovation**  
 
 
