@@ -3,8 +3,8 @@
 <p align="center">😃 👊 ❤</p>
 
 <p align="center">
-  I’m passionate about **Data Science, Machine Learning, and Deep Learning** — continuously learning, building, and applying knowledge to create **impactful solutions**.  
-  My goal is to transform **data into insights, models into intelligence**, and drive innovation through technology and AI.  
+  I’m passionate about **Data Science, Machine Learning, and Deep Learning**.  
+  transforming **data into insights, models into intelligence**, and drive innovation through technology and AI.  
 </p>
 
 ---
