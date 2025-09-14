@@ -49,7 +49,3 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
----
-
- 
