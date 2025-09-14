@@ -4,21 +4,19 @@
 
 I’m passionate about **learning, building, and applying knowledge** to create impactful projects that bring real value and spark new perspectives in technology.  
 
----
 
 ### 🌱 Currently Learning
 - 📘 Data Science Fundamentals  
 - ✅ Completed: **NumPy, Pandas, Data Visualization**  
 - 🔄 Currently exploring: **Statistics**  
 
----
 
 ### 🚀 My Focus
 - Building projects that **solve real-world problems**  
 - Developing skills that **bridge tech and innovation**  
 - Constantly improving through **hands-on learning**  
 
----
+
 
 ### 🛠️ Languages & Tools  
 
@@ -31,7 +29,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   <img src="https://cdn-icons-png.flaticon.com/512/786/786695.png" alt="Statistics" width="40" height="40"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats  
 
@@ -40,7 +38,7 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
 </p>
 
----
+
 
 ### 📫 Connect With Me  
 
@@ -53,6 +51,6 @@ I’m passionate about **learning, building, and applying knowledge** to create 
   </a>
 </p>
 
----
+
 
 ✨ *Always curious, always learning, always creating.*  
