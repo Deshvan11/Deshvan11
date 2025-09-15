@@ -27,7 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEoGFMdUVhXxQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728396933575?e=2147483647&v=beta&t=zHr6cQaUNjORkL220KrvVxE1e_Zrso7YH9sdedPD6_s" alt="NumPy" width="70" height="70"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="40"/>
   
