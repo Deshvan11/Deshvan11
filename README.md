@@ -6,9 +6,9 @@
 ### **Transforming data into insights ➕ models into intelligence** 
 
 ### Journey 
-- ✅ Completed: **NumPy -> Pandas -> Data Visualization**  
-- 🔄 Currently exploring: **Statistics & Probability**  
-- ⏳ Upcoming: **Xcel -> Power BI -> Machine Learning -> Deep Learning (Neural Networks, CNNs, RNNs)**  
+- ✅ Completed: **NumPy -> Pandas -> Data Visualization -> Statistics & Probability**  
+- 🔄 Currently exploring: **Machine Learning(Supervised/Unsupervised)**  
+- ⏳ Upcoming: **Xcel -> Power BI -> SQL -> Deep Learning (Neural Networks, CNNs, RNNs)**  
 
 
 ### To Be
@@ -16,7 +16,7 @@
 ### By 
 - 🎯Applying **Data Science & ML techniques** to solve **real-world problems**
 ### Improving through
-- ✨**experiments, research, and practical applications**
+- ✨**Experiments, research, and practical applications**
 
 ### 🛠Languages & Tools  
 
@@ -32,12 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshvan11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="40"/>
   
 </p>
-
-
-
-  
-
-
 
 ### Connect With Me  
 
