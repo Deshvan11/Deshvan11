@@ -1,4 +1,4 @@
-![Banner](https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-memphis-playful-abstract-portfolio-pink-image_593420.jpg)
+![Banner](banner.png)
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
 <h3 align="center">Always curious, always learning, always building intelligent systems 
