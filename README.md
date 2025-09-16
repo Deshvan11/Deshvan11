@@ -1,5 +1,4 @@
-[![MasterHead](<img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/6af34af6-247b-4016-93e5-9ca3cbf3131f" />
-)](https://github.com/Deshvan11/Deshvan11)
+![Banner](https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-memphis-playful-abstract-portfolio-pink-image_593420.jpg)
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
 <h3 align="center">Always curious, always learning, always building intelligent systems 
