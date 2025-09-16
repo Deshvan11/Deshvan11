@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://thumbs.dreamstime.com/b/portfolio-colorful-letters-banner-overlapping-squares-background-121154535.jpg)
 <h1 align="center"> 👋 Hi there, I'm Tanmay Deshmukh</h1>
 
 <h3 align="center">Always curious, always learning, always building intelligent systems 
