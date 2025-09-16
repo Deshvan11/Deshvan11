@@ -43,4 +43,4 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deshvan11)](https://github.com/Deshvan11/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deshvan11)]
